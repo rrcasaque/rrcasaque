@@ -1,3 +1,5 @@
+<h2> Rafael Rocha Casaque </h2>
+
 <h3> 💬 Descrição </h3>
 
 Sou um entusiasta do ramo tecnológico, tive minha primeira aula de programação ainda na infância e me apaixonei pela área. Desde então, procurei ter uma visão ampla das tecnologias atuais: web, mobile, desktop... A partir disso, mergulhei a fundo na área de programação chegando a desenvolver sites para comercios e organizações não governamentais. Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação Ciência e Tecnologia de São Paulo (Campus São Carlos), com o principal objetivo de me tornar um desenvolvedor full-stack.
