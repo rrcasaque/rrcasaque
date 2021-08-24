@@ -14,9 +14,9 @@ Sou um entusiasta do ramo tecnológico, tive minha primeira aula de programaçã
 
 <h3> 🌱 Atualmente estou estudando </h3>
 
-• Back-End: Python
+• Back-End: Python para ciência de dados e aprendizagem de máquina 
 <br>
-• Front-End: Html 5 e Css 3
+• Front-End: Revisão aprofundada em Html 5 e Css 3
 
 
 
