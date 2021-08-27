@@ -5,7 +5,8 @@
 Sou um entusiasta do ramo tecnológico, tive minha primeira aula de programação ainda na infância e me apaixonei pela área. Desde então, procurei ter uma visão ampla das tecnologias atuais: web, mobile, desktop... A partir disso, mergulhei a fundo na área de programação chegando a desenvolver sites para comercios e organizações não governamentais. Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação Ciência e Tecnologia de São Paulo (Campus São Carlos), com o principal objetivo de me tornar um desenvolvedor full-stack.
 
 <h3>🎓 Formação </h3> 
-
+• Cursando Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação Ciência e Tecnologia de São Paulo (Campus São Carlos).
+<br>
 • Curso Técnico de Informática pelo Instituto Federal de Educação Ciência e Tecnologia de São Paulo (Campus Piracicaba).
 <br>
 • Curso Profissionalizante em Informática 
