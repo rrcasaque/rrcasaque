@@ -2,7 +2,7 @@
 
 <h3> 💬 Descrição </h3>
 
-Sou um entusiasta do ramo tecnológico, tive minha primeira aula de programação ainda na infância e me apaixonei pela área. Desde então, procurei ter uma visão ampla das tecnologias atuais: web, mobile, desktop... A partir disso, mergulhei a fundo na área de programação chegando a desenvolver sites para comercios e organizações não governamentais. Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação Ciência e Tecnologia de São Paulo (Campus São Carlos), com o principal objetivo de me tornar um desenvolvedor full-stack.
+Sou um entusiasta do ramo tecnológico, iniciei meus estudos em programação no ensino médio em um curso técnico integrado. Lá tive uma formação mais ampla, podendo dominar os conceitos de lógica computacional e ter um contato com cada área de estudo. Atualmente estou atuando como estagiário em desenvolvimento web e cursando o 4º semestre de Análise e desenvolvimento de sistemas, no IFSP, com foco no estudo da área de desenvolvimento web, com react.js e typescript.
 
 <h3>🎓 Formação </h3> 
 • Cursando Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação Ciência e Tecnologia de São Paulo (Campus São Carlos).
@@ -15,9 +15,9 @@ Sou um entusiasta do ramo tecnológico, tive minha primeira aula de programaçã
 
 <h3> 🌱 Atualmente estou estudando </h3>
 
-• React.js 
+• React.js/Next.js com typescript 
 <br>
-• Node.js e PHP
+• Node.js
 
 
 
