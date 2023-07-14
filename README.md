@@ -1,4 +1,15 @@
-💬 Descrição<br>Sou um entusiasta do ramo tecnológico, iniciei meus estudos em programação no ensino médio em um curso técnico integrado. Lá tive uma formação mais ampla, podendo dominar os conceitos de lógica computacional e ter um contato com cada área de estudo. Atualmente estou atuando como estagiário em desenvolvimento web e cursando o 4º semestre de Análise e desenvolvimento de sistemas, no IFSP.<br><br>🎓 Formação<br>• Graduação de Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação Ciência e Tecnologia de São Paulo (Campus São Carlos) (em andamento).<br>• Curso NestJS Fundamentos - [2023] (em andamento)<br>• Ethereum Bootcamp (Alchemy University) (em andamento)<br>• Curso Web Design Completo: HTML5, CSS3 e JS de Daniel Tapias Morales (Udemy)<br>• Curso de React.Js e Next.Js de Luiz Otávio Miranda (Udemy)<br>• Curso Técnico de Informática pelo Instituto Federal de Educação Ciência e Tecnologia de São Paulo (Campus Piracicaba).<br>• Curso Profissionalizante em Informática<br>• Curso Profissionalizante em Hardware<br><br>💼  Estagiário em desevolvimento web - BlockC S.A.<br><br>🌱 Atualmente estou estudando<br>• React.js/Next.js com typescript<br>• Web 3.0: Blockchain, Ethereum, Smart Contracts
+💬 Descrição<br>Sou um entusiasta do ramo tecnológico, iniciei meus estudos em programação no ensino médio em um curso técnico integrado. Lá tive uma formação mais ampla, podendo dominar os conceitos de lógica computacional e ter um contato com cada área de estudo. Atualmente estou atuando como estagiário em desenvolvimento web e cursando o 4º semestre de Análise e desenvolvimento de sistemas, no IFSP.<br><br>🎓 Formação:
+<br><br><b>- Em andamento:</b><br>
+<br>• Graduação de Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação Ciência e Tecnologia de São Paulo (Campus São Carlos).
+<br>• Curso NestJS Fundamentos - [2023] (em andamento)<br>• Ethereum Bootcamp (Alchemy University) (em andamento)
+<br><br><b>- Concluído:</b><br>
+<br>• Curso de React.Js e Next.Js de Luiz Otávio Miranda (Udemy)
+<br>• Curso Web Design Completo: HTML5, CSS3 e JS de Daniel Tapias Morales (Udemy)
+<br>• Curso Técnico de Informática pelo Instituto Federal de Educação Ciência e Tecnologia de São Paulo (Campus Piracicaba).
+<br>• Curso Profissionalizante em Informática
+<br>• Curso Profissionalizante em Hardware<br>
+
+<br>💼  Estagiário em desevolvimento web - BlockC S.A.<br><br>🌱 Atualmente estou estudando<br>• React.js/Next.js com typescript<br>• Web 3.0: Blockchain, Ethereum, Smart Contracts
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-CNPq-blue)](http://lattes.cnpq.br/7559580846676220) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rrcasaque) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-rocha-casaque-529618203/) 
