@@ -1,7 +1,8 @@
 💬 Descrição<br>Sou um entusiasta do ramo tecnológico, iniciei meus estudos em programação no ensino médio em um curso técnico integrado. Lá tive uma formação mais ampla, podendo dominar os conceitos de lógica computacional e ter um contato com cada área de estudo. Atualmente estou atuando como estagiário em desenvolvimento web e cursando o 4º semestre de Análise e desenvolvimento de sistemas, no IFSP.<br><br>🎓 Formação:
 <br><br><b>- Em andamento:</b><br>
 <br>• Graduação de Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação Ciência e Tecnologia de São Paulo (Campus São Carlos).
-<br>• Curso NestJS Fundamentos - [2023] (em andamento)<br>• Ethereum Bootcamp (Alchemy University) (em andamento)
+<br>• Curso NestJS Fundamentos - [2023] (Udemy)
+<br>• Ethereum Bootcamp (Alchemy University)
 <br><br><b>- Concluído:</b><br>
 <br>• Curso de React.Js e Next.Js de Luiz Otávio Miranda (Udemy)
 <br>• Curso Web Design Completo: HTML5, CSS3 e JS de Daniel Tapias Morales (Udemy)
